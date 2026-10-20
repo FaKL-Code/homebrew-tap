@@ -1,6 +1,6 @@
 cask "fakl-code" do
-  version "0.1.12"
-  sha256 "206d7f2025d940aa19db2b7220f8a9ccacd1967a5a4319c3d7cec52281bb675c"
+  version "0.1.13"
+  sha256 "5b06ccd415953507bb413685d2f114dacb81f28d450a6ab07dcf09e224a376c6"
 
   url "https://github.com/FaKL-Code/FaKL-Code-IDE/releases/download/v#{version}/FaKL-Code-macOS-arm64.zip"
   name "FaKL-Code IDE"
